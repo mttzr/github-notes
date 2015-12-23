@@ -24551,7 +24551,7 @@
 			return React.createElement(
 				'h2',
 				{ className: 'text-center' },
-				'Search by Github Username Above'
+				'Search by GitHub Username Above'
 			);
 		}
 	});
